@@ -1,0 +1,48 @@
+.heading{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: 	#6B8E23;
+    background: #FFF8DC;
+    border: 2px solid #6B8E23;
+    border-radius: 20px;
+}
+form {
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+    background: #FFF8DC;
+    border: 1px solid #6B8E23;
+}
+
+.task_input {
+    width: 75%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #6B8E23;
+}
+.addBtn {
+    height: 39px;
+    background: #FFF8DC;
+    color: 	#6B8E23;
+    border: 2px solid #6B8E23;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.deletebtn {
+    height: 20px;
+    background: #FFF8DC;
+    color: 	#6B8E23;
+    border: 1px solid #6B8E23;
+    border-radius: 2px;
+    padding: 2px 10px;
+}
+.updatebtn {
+    height: 30px;
+    background: #FFF8DC;
+    color: 	#6B8E23;
+    border: 1px solid #6B8E23;
+    border-radius: 2px;
+    padding: 2px 10px;
+}
