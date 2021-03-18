@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    background-color:#F5F5F5;
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+    border-style: solid;
+    border-color: #BA68C8;
+
+
+}
+
+h1 {
+
+    text-align: center;
+    background-color: #FFCCBC;
+    border-color: #C5CAE9;
+    border-style: solid;
+    margin-right: 30px;
+    margin-left: 30px;
+
+    font-family: 'Lexend Mega' !important;
+    color: #FB8C00 !important;
+
+}
+
+
+
+#ekle {
+    margin-top: 30px;
+
+}
+
+
+
