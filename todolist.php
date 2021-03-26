@@ -43,14 +43,12 @@ class TodoList {
         $this->save();
     }
     // update
-    public function update(int $id){
+    public function update(int $id, string $value){
 
         $id--;
-        $update = $_POST['update'];
-        if(!empty($update)){
-            $this->myTodoList[$id] = $update;
-            $this->save();
-        }
+        $this->myTodoList[$id] = $value;
+        $this->save();
+
 
 
 
