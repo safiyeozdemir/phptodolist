@@ -1,48 +1,32 @@
-.heading{
-    width: 50%;
-    margin: 30px auto;
-    text-align: center;
-    color: 	#6B8E23;
-    background: #FFF8DC;
-    border: 2px solid #6B8E23;
-    border-radius: 20px;
-}
-form {
-    width: 50%;
-    margin: 30px auto;
-    border-radius: 5px;
-    padding: 10px;
-    background: #FFF8DC;
-    border: 1px solid #6B8E23;
+.container {
+    display: flex;
+    background-color:#F5F5F5;
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+    border-style: solid;
+    border-color: #BA68C8;
+
+
 }
 
-.task_input {
-    width: 75%;
-    height: 15px;
-    padding: 10px;
-    border: 2px solid #6B8E23;
+h1 {
+
+    text-align: center;
+    background-color: #FFCCBC;
+    border-color: #C5CAE9;
+    border-style: solid;
+    margin-right: 30px;
+    margin-left: 30px;
+
+    font-family: 'Lexend Mega' !important;
+    color: #FB8C00 !important;
+
 }
-.addBtn {
-    height: 39px;
-    background: #FFF8DC;
-    color: 	#6B8E23;
-    border: 2px solid #6B8E23;
-    border-radius: 5px;
-    padding: 5px 20px;
-}
-.deletebtn {
-    height: 20px;
-    background: #FFF8DC;
-    color: 	#6B8E23;
-    border: 1px solid #6B8E23;
-    border-radius: 2px;
-    padding: 2px 10px;
-}
-.updatebtn {
-    height: 30px;
-    background: #FFF8DC;
-    color: 	#6B8E23;
-    border: 1px solid #6B8E23;
-    border-radius: 2px;
-    padding: 2px 10px;
+
+
+
+#ekle {
+    margin-top: 30px;
+
 }
